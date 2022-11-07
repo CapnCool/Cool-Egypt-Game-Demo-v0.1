@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/desert_theme_chiptune.mp3-f0fd78e742f427fe7a795aba2e70ec8c.mp3str"
+
+[deps]
+
+source_file="res://desert_theme_chiptune.mp3"
+dest_files=[ "res://.import/desert_theme_chiptune.mp3-f0fd78e742f427fe7a795aba2e70ec8c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

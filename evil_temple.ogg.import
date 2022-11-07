@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/evil_temple.ogg-2abaad1ed005572444947a33eb92f5bd.oggstr"
+
+[deps]
+
+source_file="res://evil_temple.ogg"
+dest_files=[ "res://.import/evil_temple.ogg-2abaad1ed005572444947a33eb92f5bd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
